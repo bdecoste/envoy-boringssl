@@ -1,4 +1,4 @@
-workspace(name = "envoy_boringssl")
+workspace(name = "sslimpl")
 
 load("//bazel:repositories.bzl", "envoy_dependencies")
 
